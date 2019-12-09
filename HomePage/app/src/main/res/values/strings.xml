@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HomePage</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">DormSwappers</string>
+    <string name="summary">Your New Home is a Click Away!</string>
+    <string name="button1_message">Click Here to Start Your Search</string>
+    <string name="desc">Image1</string>
+    <string name="title_activity_page2">Page2</string>
+    <string name="Location">Choose a Location in the BU Area</string>
+    <string name="checkbox1">CheckBox</string>
+    <string name="checkbox2">CheckBox</string>
+    <string name="checkbox3">CheckBox</string>
+    <string name="checkbox4">CheckBox</string>
+    <string name="box1">East Campus</string>
+    <string name="box2">Central Campus</string>
+    <string name="box3">West Campus</string>
+    <string name="box4">South Campus</string>
+    <string name="button2_message">Save Preferences</string>
+</resources>
