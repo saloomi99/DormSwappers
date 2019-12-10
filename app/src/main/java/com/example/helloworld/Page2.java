@@ -1,4 +1,4 @@
-package com.example.homepage;
+package com.example.helloworld;
 
 import android.os.Bundle;
 
