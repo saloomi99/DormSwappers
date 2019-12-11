@@ -1,5 +1,5 @@
 # DormSwappers
-Team name:Room Swappers 
+Team name:Dorm Swappers 
 
 Members: Thomas Scrivanich, Mykel Turner, Stefan Wong, Saud Alshubaibi and Salem Bugshan
 
