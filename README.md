@@ -21,4 +21,4 @@ We choose to make an Android app using Android studio which is for Google's Andr
 Java. Most, We built the app by creating a login page that has some space for texts and a button that will allow the user to move into
 the next page. All of the other pages of the app and the process were built by using buttons to move from one page to the other and by using texts that show the displayed information.The program of Android Studio offers many  features that enhance the productivity when building Android apps as it contains a flexible Gradle-based build system and a fast emulator that allows us to see the process.
 
-Link to YoutubeVideo: 
+Link to YoutubeVideo: https://www.youtube.com/watch?v=ce0gdpYG7GA
