@@ -13,10 +13,10 @@ import android.view.View;
 import android.widget.Button;
 
 public class Page2 extends AppCompatActivity {
-    private Button button1;
-    private Button button2;
-    private Button button3;
-    private Button button4;
+    private Button button1; // Button for East
+    private Button button2; // Button for West
+    private Button button3; // Button for Central
+    private Button button4; // Button for South
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,7 +56,6 @@ public class Page2 extends AppCompatActivity {
                 openPage6();
             }
         });
-
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override

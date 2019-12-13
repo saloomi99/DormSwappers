@@ -15,7 +15,8 @@ import android.view.MenuItem;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-    private Button button;
+    private Button button; // Button to area page
+    private Button button2; // Button to upload a dorm
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +33,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        button2 = findViewById(R.id.button2);
+        button2.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                openUploadDorm();
+            }
+        });
+
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -44,6 +53,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void openPage2() {
         Intent intent = new Intent(this, Page2.class);
+        startActivity(intent);
+    }
+
+    public void openUploadDorm(){
+        Intent intent = new Intent(this, UploadDorm.class);
         startActivity(intent);
     }
 
