@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dorm Swappers</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Search">Click here to start your search</string>
+    <string name="Upload">Click here to list your dorm</string>
+    <string name="EastCampus">East Campus</string>
+    <string name="CentralCampus">Central Campus</string>
+    <string name="WestCampus">West Campus</string>
+    <string name="SouthCampus">South Campus</string>
+</resources>
